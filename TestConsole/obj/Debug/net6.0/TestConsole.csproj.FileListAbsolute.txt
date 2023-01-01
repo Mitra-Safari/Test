@@ -1,0 +1,15 @@
+F:\Safari\Proj\qqq\TestConsole\bin\Debug\net6.0\TestConsole.exe
+F:\Safari\Proj\qqq\TestConsole\bin\Debug\net6.0\TestConsole.deps.json
+F:\Safari\Proj\qqq\TestConsole\bin\Debug\net6.0\TestConsole.runtimeconfig.json
+F:\Safari\Proj\qqq\TestConsole\bin\Debug\net6.0\TestConsole.dll
+F:\Safari\Proj\qqq\TestConsole\bin\Debug\net6.0\TestConsole.pdb
+F:\Safari\Proj\qqq\TestConsole\obj\Debug\net6.0\TestConsole.csproj.AssemblyReference.cache
+F:\Safari\Proj\qqq\TestConsole\obj\Debug\net6.0\TestConsole.GeneratedMSBuildEditorConfig.editorconfig
+F:\Safari\Proj\qqq\TestConsole\obj\Debug\net6.0\TestConsole.AssemblyInfoInputs.cache
+F:\Safari\Proj\qqq\TestConsole\obj\Debug\net6.0\TestConsole.AssemblyInfo.cs
+F:\Safari\Proj\qqq\TestConsole\obj\Debug\net6.0\TestConsole.csproj.CoreCompileInputs.cache
+F:\Safari\Proj\qqq\TestConsole\obj\Debug\net6.0\TestConsole.dll
+F:\Safari\Proj\qqq\TestConsole\obj\Debug\net6.0\refint\TestConsole.dll
+F:\Safari\Proj\qqq\TestConsole\obj\Debug\net6.0\TestConsole.pdb
+F:\Safari\Proj\qqq\TestConsole\obj\Debug\net6.0\TestConsole.genruntimeconfig.cache
+F:\Safari\Proj\qqq\TestConsole\obj\Debug\net6.0\ref\TestConsole.dll
